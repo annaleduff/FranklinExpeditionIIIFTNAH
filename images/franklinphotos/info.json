@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 25,
+    "height" : 30
+  }, {
+    "width" : 49,
+    "height" : 59
+  }, {
+    "width" : 98,
+    "height" : 118
+  }, {
+    "width" : 196,
+    "height" : 235
+  }, {
+    "width" : 391,
+    "height" : 469
+  }, {
+    "width" : 782,
+    "height" : 937
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 782,
+  "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/franklinphotos",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 937
+}
