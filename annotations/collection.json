@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/annotations/annotationsportrais.json" ],
+  "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/annotations/collection.json",
+  "label" : "All annotations loaded in annaleduff/FranklinExpeditionIIIFTNAH project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
