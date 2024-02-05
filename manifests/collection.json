@@ -1,0 +1,13 @@
+{
+  "id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in annaleduff/FranklinExpeditionIIIFTNAH project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json",
+    "label" : "Franklin Expedition IIIF project"
+  } ]
+}
