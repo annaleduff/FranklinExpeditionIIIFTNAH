@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json",
+  "@type" : "sc:Manifest",
+  "label" : "Franklin Expedition IIIF project",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[This manifest was created in the context of the IIIF project for the M2 Tnah. The images used all relate to the Franklin Expedition.]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Copyright Anna Le Duff, using images from : Wikipedia ; Sothesby's ; Parks Canada. Released as Creative Commons]",
+  "sequences" : [ {
+    "@id" : "http://1b43d488-7062-48ba-a872-89cc28ac857e",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://5ebf3ce0-2c02-4446-a027-d992328aa8b2",
+      "@type" : "sc:Canvas",
+      "label" : "Portraits Franklin Expedition",
+      "height" : 937,
+      "width" : 782,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1cdd7a64-7cf1-4110-a6ba-e6e86b1059eb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/franklinphotos/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/franklinphotos",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 937,
+          "width" : 782
+        },
+        "on" : "http://5ebf3ce0-2c02-4446-a027-d992328aa8b2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://35da61e3-364e-47b9-a1cc-db0d3c385e69",
+      "@type" : "sc:Canvas",
+      "label" : "Expedition Map",
+      "height" : 768,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://96530605-fa19-4b21-82b2-3793003b0fe6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/FranklinExpeditionMap/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/FranklinExpeditionMap",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 768,
+          "width" : 1024
+        },
+        "on" : "http://35da61e3-364e-47b9-a1cc-db0d3c385e69"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b5852b86-5ce1-4d03-85b3-0850d129956c",
+      "@type" : "sc:Canvas",
+      "label" : "Victory Point Note",
+      "height" : 1024,
+      "width" : 634,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://378962c3-12a5-46ba-8b6c-5fc2aa261de1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/VPointNote/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/VPointNote",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1024,
+          "width" : 634
+        },
+        "on" : "http://b5852b86-5ce1-4d03-85b3-0850d129956c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7c7434b5-47e7-47d4-b384-fa3c15acef91",
+      "@type" : "sc:Canvas",
+      "label" : "HMS Terror Sonar",
+      "height" : 290,
+      "width" : 870,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ad38a09a-1f0b-4622-bd35-093078eef074",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/HMSTerrorSonarbis/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/HMSTerrorSonarbis",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 290,
+          "width" : 870
+        },
+        "on" : "http://7c7434b5-47e7-47d4-b384-fa3c15acef91"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
