@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 24
+  }, {
+    "width" : 64,
+    "height" : 48
+  }, {
+    "width" : 128,
+    "height" : 96
+  }, {
+    "width" : 256,
+    "height" : 192
+  }, {
+    "width" : 512,
+    "height" : 384
+  }, {
+    "width" : 1024,
+    "height" : 768
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1024,
+  "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/FranklinExpeditionMap",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 768
+}
