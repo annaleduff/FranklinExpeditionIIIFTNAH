@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1024,
+    "id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/FranklinExpeditionMap/canvas/",
+    "label" : {
+      "none" : [ "FranklinExpeditionMap" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/FranklinExpeditionMap/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/FranklinExpeditionMap/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 24
+            }, {
+              "width" : 64,
+              "height" : 48
+            }, {
+              "width" : 128,
+              "height" : 96
+            }, {
+              "width" : 256,
+              "height" : 192
+            }, {
+              "width" : 512,
+              "height" : 384
+            }, {
+              "width" : 1024,
+              "height" : 768
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1024,
+            "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/FranklinExpeditionMap",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 768
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1024,
+          "id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/FranklinExpeditionMap/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 768
+        },
+        "target" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/FranklinExpeditionMap/canvas/"
+      } ]
+    } ],
+    "height" : 768
+  }, {
     "width" : 870,
     "id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/images/HMSTerrorSonarbis/canvas/",
     "label" : {
