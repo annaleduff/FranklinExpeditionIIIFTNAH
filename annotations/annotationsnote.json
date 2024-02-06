@@ -1,0 +1,179 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Sir John Franklin died on the 11th June, 1847\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"Sir John Franklin died on the 11th June, 1847\"</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101000654338264654951",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T22:51:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707173477243",
+    "dcterms:modified" : "2024-02-05T22:51:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=621,558,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M625.63636,571.54545c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_fe1e475b-dbca-4b64-b7bd-80dd6459e878\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5852b86-5ce1-4d03-85b3-0850d129956c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fitzjames",
+      "@type" : "oa:Tag",
+      "chars" : "Fitzjames"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Crozier",
+      "@type" : "oa:Tag",
+      "chars" : "Crozier"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "[25th April 1]848 H.M. ships 'Terror' and 'Erebus' were deserted on the 22nd April, 5 leagues N.N.W. of this, [hav]ing been beset since 12th September, 1846. The officers and crews, consisting of 105 souls, under the command [of Cap]tain F.R.M. Crozier, landed here in lat. 69˚ 37' 42\" N., long. 98˚ 41' W. [This p]aper was found by Lt. Irving under the cairn supposed to have been built by Sir James Ross in 1831&ndash;4 miles to the Northward &ndash; where it had been deposited by the late Commander Gore in May June 1847. Sir James Ross&rsquo; pillar has not however been found and the paper has been transferred to this position which is that in which Sir J. Ross&rsquo; pillar was erected &ndash; Sir John Franklin died on the 11th June, 1847; and the total lossby deaths in the expedition has been to this date 9 officers and 15 men. (Signed) JAMES FITZJAMES, Captain H.M.S. Erebus.\n(Signed) F.R.M. CROZIER, Captain &amp; Senior Offr.\nand start on tomorrow, 26th, for Back's Fish River\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>[25th April 1]848 H.M. ships 'Terror' and 'Erebus' were deserted on the 22nd April, 5 leagues N.N.W. of this, [hav]ing been beset since 12th September, 1846. The officers and crews, consisting of 105 souls, under the command [of Cap]tain F.R.M. Crozier, landed here in lat. 69˚ 37' 42\" N., long. 98˚ 41' W. [This p]aper was found by Lt. Irving under the cairn supposed to have been built by Sir James Ross in 1831&ndash;4 miles to the Northward &ndash; where it had been deposited by the late Commander Gore in May June 1847. Sir James Ross&rsquo; pillar has not however been found and the paper has been transferred to this position which is that in which Sir J. Ross&rsquo; pillar was erected &ndash; Sir John Franklin died on the 11th June, 1847; and the total lossby deaths in the expedition has been to this date 9 officers and 15 men. (Signed) JAMES FITZJAMES, Captain H.M.S. Erebus.</p>\n<p>(Signed) F.R.M. CROZIER, Captain &amp; Senior Offr.</p>\n<p>and start on tomorrow, 26th, for Back's Fish River</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101000654338264654951",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T22:49:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707173394702",
+    "dcterms:modified" : "2024-02-05T22:49:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=34,19,591,78"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M34.34943,19.48535h295.57904v0h295.57904v38.83584v38.83584h-295.57904h-295.57904v-38.83584z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0467ff02-3825-4399-9efc-74f7057b52ad\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5852b86-5ce1-4d03-85b3-0850d129956c"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=588,106,46,902"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M588.37424,105.96727h22.81288v0h22.81288v450.97625v450.97625h-22.81288h-22.81288v-450.97625z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4a1e3ca5-43f9-438c-984f-24f57b6870ab\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5852b86-5ce1-4d03-85b3-0850d129956c"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5,111,88,807"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M93.80575,111.37239h-44.20032v0h-44.20032v403.68145v403.68145h44.20032h44.20032v-403.68145z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ee2d79c4-e7b5-4462-96af-4f7cccf8d926\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5852b86-5ce1-4d03-85b3-0850d129956c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "H.M.S ships 'Erebus' and 'Terror' wintered in the Ice in lat. 70 05' N., long. 98 23' W. Having wintered in 1846&ndash;7 at Beechey Island[a], in lat. 74 43' 28\" N., long. 91 39' 15\" W., after having ascended Wellington Channel to lat. 77&deg;, and returned by the west side of Cornwallis Island. Sir John Franklin commanding the expedition. All well.\nWHOEVER finds this paper is requested to forward it to the Secretary of&nbsp;the Admiralty, London, with a note of the time and place at which it was&nbsp;found : or, if more convenient, to deliver it for that purpose to the British Consul at the nearest Port.\nParty consisting of 2 officers and 6 men left the ships on Monday 24th May, 1847.\n(Signed) GM. GORE, Lieut.\n(Signed) CHAS. F. DES VOEUX, Mate.\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>H.M.S ships 'Erebus' and 'Terror' wintered in the Ice in lat. 70 05' N., long. 98 23' W. Having wintered in 1846&ndash;7 at Beechey Island[a], in lat. 74 43' 28\" N., long. 91 39' 15\" W., after having ascended Wellington Channel to lat. 77&deg;, and returned by the west side of Cornwallis Island. Sir John Franklin commanding the expedition. All well.</p>\n<p><em>WHOEVER finds this paper is requested to forward it to the Secretary of&nbsp;</em><em>the Admiralty, London, with a note of the time and place at which it was&nbsp;</em><em>found : or, if more convenient, to deliver it for that purpose to the British Con</em><em>sul at the nearest Port.</em></p>\n<p>Party consisting of 2 officers and 6 men left the ships on Monday 24th May, 1847.</p>\n<p>(Signed) GM. GORE, Lieut.</p>\n<p>(Signed) CHAS. F. DES VOEUX, Mate.</p>\n<p>&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Des Voeux",
+      "@type" : "oa:Tag",
+      "chars" : "Des Voeux"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gore",
+      "@type" : "oa:Tag",
+      "chars" : "Gore"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Franklin",
+      "@type" : "oa:Tag",
+      "chars" : "Franklin"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101000654338264654951",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-05T22:40:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707172815081",
+    "dcterms:modified" : "2024-02-05T22:43:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=67,103,515,865"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M66.90499,102.58907h257.60807v0h257.60807v432.73397v432.73397h-257.60807h-257.60807v-432.73397z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_e04d390f-e35a-4cc1-8510-a9ac6c168aab\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5852b86-5ce1-4d03-85b3-0850d129956c"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=632,655,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M632,654.72209h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_ec80a8ae-7d74-41a1-8e78-9fa718f0743e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5852b86-5ce1-4d03-85b3-0850d129956c"
+    } ]
+  } ],
+  "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/annotations/annotationsnote.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
