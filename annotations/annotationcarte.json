@@ -1,0 +1,171 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "July 1845, the espedition pauses in Disko Bay ;&nbsp;&nbsp;Five men sick with tuberculosis are sent home, along with another batch of letters.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>July 1845, the espedition pauses in Disko Bay ;&nbsp;&nbsp;Five men sick with tuberculosis are sent home, along with another batch of letters.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101000654338264654951",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T22:56:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707173808232",
+    "dcterms:modified" : "2024-02-05T22:56:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=857,248,18,27"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M865.90024,275.45843c0,-6.08076 3.04038,-12.16152 9.12114,-18.24228c0,-5.03747 -4.08367,-9.12114 -9.12114,-9.12114c-5.03747,0 -9.12114,4.08367 -9.12114,9.12114c6.08076,6.08076 9.12114,12.16152 9.12114,18.24228z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_81aaaf0b-54f8-4cf6-91c3-cd1eaa4cf646\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://35da61e3-364e-47b9-a1cc-db0d3c385e69"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "2014 Wreck of Erebus found in Wilmot and Crampton Bay off Utjulik.\n2016&nbsp;Wreck of Terror found in Terror Bay.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>2014 Wreck of Erebus found in Wilmot and Crampton Bay off Utjulik.</p>\n<p>2016&nbsp;Wreck of Terror found in Terror Bay.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101000654338264654951",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T23:14:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707174885345",
+    "dcterms:modified" : "2024-02-05T23:15:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=448,495,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M452.9091,508.54545c0,-3.0303 1.51515,-6.06062 4.54545,-9.09092c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06062 4.54545,9.09092z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"pin_4629d315-9ad7-4911-ab75-5e0119a71ca9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"10\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://35da61e3-364e-47b9-a1cc-db0d3c385e69"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "12th September 1846 Ships trapped in the ice off King William Island.\nExpedition winters on King William Island.\n28th May 1847 :Six-man sledge party led by Lt. Graham Gore and Mate Charles Frederick Des Voeux leaves identical notes at Victory Point and Gore Point, both written by James Fitzjames and concluding \"All well\".\n11 June 1847 Franklin dies, leaving Crozier in charge of the expedition, but he remains aboard Terror against Admiralty's orders. Fitzjames becomes Captain of Erebus and Gore replaces Fitzjames as its Commander.\n22nd April 1848 : Erebus and Terror abandoned after one year and seven months trapped in the ice. Men set camp at Victory Point",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>12th September 1846 Ships trapped in the ice off King William Island.</p>\n<p>Expedition winters on King William Island.</p>\n<p>28th May 1847 :Six-man sledge party led by Lt. Graham Gore and Mate Charles Frederick Des Voeux leaves identical notes at Victory Point and Gore Point, both written by James Fitzjames and concluding \"All well\".</p>\n<p>11 June 1847 Franklin dies, leaving Crozier in charge of the expedition, but he remains aboard Terror against Admiralty's orders. Fitzjames becomes Captain of Erebus and Gore replaces Fitzjames as its Commander.</p>\n<p>22nd April 1848 : Erebus and Terror abandoned after one year and seven months trapped in the ice. Men set camp at Victory Point</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101000654338264654951",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T23:13:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707174807331",
+    "dcterms:modified" : "2024-02-05T23:13:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=457,440,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M462,454c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_3e3a2dce-d64c-463c-9abd-0fe095fa2443\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://35da61e3-364e-47b9-a1cc-db0d3c385e69"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "12th May 1845 : Expedition leaves Woolwich, England",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>12th May 1845 : Expedition leaves Woolwich, England</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101000654338264654951",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T23:03:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707174206756",
+    "dcterms:modified" : "2024-02-05T23:03:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=982,665,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M986.54545,678.54545c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_d092bbce-772d-40b2-8373-819c61763f0c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://35da61e3-364e-47b9-a1cc-db0d3c385e69"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Winter 1845-46 :&nbsp;Expedition winters on Beechey Island.\n1st January 1946&nbsp;John Torrington dies and is buried at Beechey Island.\n4th January 1846&nbsp;John Hartnell dies and is autopsied before being buried at Beechey Island.\n3rd April 1846 William Braine dies but is stored in the ship instead of buried immediately. He is buried on the 8th.\nSummer 1846 :&nbsp;<span style=\"white-space: normal;\"> HMS Erebus and HMS Terror leave Beechey Island and sail down Peel Sound towards King William Island.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Winter 1845-46 :&nbsp;Expedition winters on Beechey Island.</p>\n<p>1st January 1946&nbsp;John Torrington dies and is buried at Beechey Island.</p>\n<p>4th January 1846&nbsp;John Hartnell dies and is autopsied before being buried at Beechey Island.</p>\n<p>3rd April 1846 William Braine dies but is stored in the ship instead of buried immediately. He is buried on the 8th.</p>\n<p>Summer 1846 :&nbsp;<span style=\"white-space: normal;\"> HMS Erebus and HMS Terror leave Beechey Island and sail down Peel Sound towards King William Island.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101000654338264654951",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-05T23:01:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707174086342",
+    "dcterms:modified" : "2024-02-05T23:01:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=497,281,18,27"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M506.52732,308.29454c0,-6.08076 3.04038,-12.16152 9.12114,-18.24228c0,-5.03747 -4.08367,-9.12114 -9.12114,-9.12114c-5.03747,0 -9.12114,4.08367 -9.12114,9.12114c6.08076,6.08076 9.12114,12.16152 9.12114,18.24228z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_90ae4e36-ee90-4f35-b844-9eedc00807f5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"20.06651\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://35da61e3-364e-47b9-a1cc-db0d3c385e69"
+    } ]
+  } ],
+  "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/annotations/annotationcarte.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
