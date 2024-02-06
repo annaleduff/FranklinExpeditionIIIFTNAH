@@ -3,6 +3,11 @@
   "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/manifests/manifestFranklincopy.json",
   "@type" : "sc:Manifest",
   "label" : "Franklin Expedition IIIF project",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/101000654338264654951/0379e57cb556129395265d11452d6846/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[This manifest was created in the context of the IIIF project for the M2 Tnah. The images used all relate to the Franklin Expedition.]",
@@ -42,6 +47,11 @@
         },
         "on" : "http://5ebf3ce0-2c02-4446-a027-d992328aa8b2"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/annotations/annotationsportrais.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the portraits of the Franklin Expedition"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://35da61e3-364e-47b9-a1cc-db0d3c385e69",
@@ -67,6 +77,11 @@
           "width" : 1024
         },
         "on" : "http://35da61e3-364e-47b9-a1cc-db0d3c385e69"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/annotations/annotationcarte.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations on the map retracing the expedition journey."
       } ],
       "related" : ""
     }, {
@@ -94,6 +109,11 @@
         },
         "on" : "http://b5852b86-5ce1-4d03-85b3-0850d129956c"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/annotations/annotationsnote.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations on the Victory Point Note. Transcription"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://7c7434b5-47e7-47d4-b384-fa3c15acef91",
@@ -119,6 +139,11 @@
           "width" : 870
         },
         "on" : "http://7c7434b5-47e7-47d4-b384-fa3c15acef91"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://annaleduff.github.io/FranklinExpeditionIIIFTNAH/annotations/annotationsonar.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
