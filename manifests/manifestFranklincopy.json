@@ -8,9 +8,18 @@
     "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/101000654338264654951/0379e57cb556129395265d11452d6846/search",
     "@context" : "http://iiif.io/api/search/0/context.json"
   },
-  "metadata" : [ ],
+  "metadata" : [ 
+    { "label": "Portraits Franklin Expedition",
+      "value": "Daguerreotypes taken by Richard Beard's Studio in 1845. Sothesby's."},
+    {"label":"Expedition Map",
+      "value": "Map of the probable routes taken by HMS Erebus and HMS Terror during Franklin's lost expedition. Wikipedia : Hans van der Maarel "},
+    {"label":"Victory Point Note",
+      "value":"Last record of Sir John Franklin's expedition in search of the North-West Passage. 1847-1848.National Maritime Museum, Greenwich, London "},
+    {"label":"HMS Terror Sonar",
+      "value":"Side-scan sonar image of HMS Terror shows stunning detail. Government of Canada."}
+  ],
   "description" : [ {
-    "@value" : "[This manifest was created in the context of the IIIF project for the M2 Tnah. The images used all relate to the Franklin Expedition.]",
+    "@value" : "This manifest was created in the context of the IIIF project for the M2 Tnah. The images used all relate to the Franklin Expedition.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
